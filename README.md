@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micium 
 - 👀 I’m interested in Smart Home
 - 🌱 I’m currently learning Home Assistant
-- 💞️ I’m looking to collaborate on developer
+- 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me ...
 
 <!---
