@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micium 
 - 👀 I’m interested in Smart Home
-- 🌱 I’m currently learning Home Assistant
+- 🌱 I’m using Home Assistant from 2019
 - 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me ...
 
